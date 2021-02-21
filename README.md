@@ -18,7 +18,7 @@ We utilized multiple APIS including [EONET-NASA](https://eonet.sci.gsfc.nasa.gov
 - [Melinda Ivanov](https://github.com/jnsmelinda): Node and Express Backend, Sequalize, Disasters API
 
 ## Links
-- Github: https://github.com/djjoo007/disaster_dashboard
+- Github: https://github.com/jnsmelinda/Disaster_Dashboard
 - Heroku: https://cryptic-castle-46514.herokuapp.com/
   - Email: testaccount@gmail.com
   - Password: GenericPassword12!
