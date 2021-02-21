@@ -10,7 +10,7 @@ class Sidebar extends React.Component {
     return (
       <Menu>
         <h3>Need more data? </h3>
-        <a className="menu-item" href="https://kj-labs.github.io/Earthquake_Tracker">
+        <a className="menu-item" href="https://jnsmelinda.github.io/Earthquake_Tracker/">
         Earthquake Tracker - Project 1
         </a>
         <a className="menu-item" href="https://vent-tracker.herokuapp.com/">
