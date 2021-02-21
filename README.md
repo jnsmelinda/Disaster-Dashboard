@@ -19,7 +19,7 @@ We utilized multiple APIS including [EONET-NASA](https://eonet.sci.gsfc.nasa.gov
 
 ## Links
 - Github: https://github.com/djjoo007/disaster_dashboard
-- Heroku: https://disaster-list-dashboard.herokuapp.com/Dashboard
+- Heroku: https://cryptic-castle-46514.herokuapp.com/
   - Email: testaccount@gmail.com
   - Password: GenericPassword12!
 
